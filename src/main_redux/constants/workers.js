@@ -1,0 +1,7 @@
+export const GET_WORKERS = 'GET_WORKERS'
+export const ADD_WORKERS = 'ADD_WORKERS'
+export const DROP_WORKERS = 'DROP_WORKERS'
+export const GET_WORKERS_RANKS = 'GET_WORKERS_RANKS'
+export const GET_WORK_DAYS = 'GET_WORK_DAYS'
+export const ADD_WORK_DAY = 'ADD_WORK_DAY'
+export const DROP_WORK_DAY = 'DROP_WORK_DAY'

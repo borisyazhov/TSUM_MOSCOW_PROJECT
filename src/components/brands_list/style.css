@@ -1,0 +1,24 @@
+.brands_list__position{
+}
+
+.filter_panel{
+    border: 1px solid rgb(211, 209, 209);
+    height: 60px;
+    padding-top: 10px;
+}
+
+.brands_list{
+ list-style: none;
+ padding-left: 0;
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+ padding: 20px 50px 30px 50px;
+ height: 420px;
+ overflow-y: auto;
+}
+
+.brands_item{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

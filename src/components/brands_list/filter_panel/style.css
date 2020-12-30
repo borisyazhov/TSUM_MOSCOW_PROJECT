@@ -1,0 +1,15 @@
+.filter_panel__position{
+    display: flex;
+    justify-content: space-around;
+}
+
+.search_input{
+    display: flex;
+    
+
+}
+
+.luxury_level{
+    display: flex;
+
+}
